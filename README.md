@@ -63,4 +63,4 @@ Responses appear under the assistant's name
 
 Previous messages are shown in the session
 
-When errors occur, they are clearly shown (e.g. "error: ...")
+When errors occur, they are clearly shown (e.g. "เกิดข้อผิดพลาด: ...")
