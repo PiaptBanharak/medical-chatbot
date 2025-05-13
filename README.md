@@ -3,6 +3,7 @@ Thai medical chatbot using RAG (Retrieval-Augmented Generation) with Llama3 and 
 
 
 Testing Guidelines for Medical Chatbot Application
+
 🧱 1. Environment Setup
 Make sure the following components are installed and properly configured:
 
